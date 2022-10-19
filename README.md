@@ -5,7 +5,7 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/-muhammetnurhan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:muhammetnurhan@gmail.com)](mailto:batuhansanli@gmail.com)
+[![Email](https://img.shields.io/badge/-muhammetnurhan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:muhammetnurhan@gmail.com)](mailto:muhammetnurhan@gmail.com)
 [![Website](https://img.shields.io/badge/-devinzone.com-black?style=flat&logo=google-chrome&logoColor=white)](https://devinzone.com)
 [![Website](https://img.shields.io/badge/-bilisimsozluk.com-black?style=flat&logo=firefox&logoColor=white)](https://bilisimsozluk.com)
 
@@ -34,7 +34,6 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 
 ## 📚 I'm currently learning
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
@@ -49,13 +48,12 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 ## 🛠 I have experience with
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Php](https://img.shields.io/badge/Php-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
-
-
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Backend Technologies
