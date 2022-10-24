@@ -37,6 +37,8 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/CDK-blue?style=flat&logo=amazon-aws&logoColor=white)
+
 
 ## 📊 My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetnurhan&layout=default&hide_title=true)](https://github.com/muhammetnurhan)
@@ -90,7 +92,7 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 
 ### Cloud & Hosting
