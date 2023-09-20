@@ -48,7 +48,7 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 <summary>More:</summary>
 
 ## 🛠 I have experience with
-### Programming Languages
+### Programming Languages and Framework
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 ![Php](https://img.shields.io/badge/Php-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -92,7 +92,8 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
+![GitLab-Runner](https://img.shields.io/badge/GitLab%20Runner-orange?style=flat&logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 
 ### Cloud & Hosting
