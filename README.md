@@ -31,11 +31,13 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/Rest%20API-orange?style=flat&logo=RestAPI&logoColor=white)
-![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next.Js-black?style=flat&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-green?style=flat&logo=sonatype&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 
@@ -64,17 +66,9 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash&logoColor=white)
 
-### Backend Technologies
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
-![RestAPI](https://img.shields.io/badge/RestAPI-blue?style=flat&logo=rest-api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-49A32B?style=flat&logo=swagger&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white)
-
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
-![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next.Js-black?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
@@ -82,7 +76,6 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis&logoColor=white)
 ![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -95,8 +88,10 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-green?style=flat&logo=sonatype&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+![GitHub-Actions](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
 ![GitLab-Runner](https://img.shields.io/badge/GitLab%20Runner-orange?style=flat&logo=gitlab&logoColor=white)
 
@@ -110,10 +105,13 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-49A32B?style=flat&logo=swagger&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 
 
 </details>
