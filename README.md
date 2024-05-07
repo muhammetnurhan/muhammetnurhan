@@ -14,13 +14,12 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 
 
 ## 💻 My system
-![LinuxMint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple&logoColor=white)
 ![UbuntuServer](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat&logo=Ubuntu&logoColor=white)
 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=Webstorm&logoColor=white)
-![Webstorm](https://img.shields.io/badge/-Phpstrom-000000?style=flat&logo=Phpstorm&logoColor=white)
+![Phpstorm](https://img.shields.io/badge/-Phpstrom-000000?style=flat&logo=Phpstorm&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Nano](https://img.shields.io/badge/-Nano-440077?style=flat)
@@ -32,9 +31,16 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/Rest%20API-orange?style=flat&logo=RestAPI&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 
 ## 📚 I'm currently learning
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
@@ -55,23 +61,20 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Backend Technologies
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/RestAPI-blue?style=flat&logo=rest-api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-purple?style=flat&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-49A32B?style=flat&logo=swagger&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white)
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
@@ -89,13 +92,13 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
 ![GitLab-Runner](https://img.shields.io/badge/GitLab%20Runner-orange?style=flat&logo=gitlab&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 
 ### Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
@@ -110,6 +113,7 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Confluence](https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 
 
 </details>
