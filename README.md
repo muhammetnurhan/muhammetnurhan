@@ -2,6 +2,7 @@
 
 I'm Backend Engineer from Turkey. I'm currently working at [**Teleskop App**](https://teleskop.app) as a Backend Engineer.
 I'm using **Python** and **Flask Rest API** for my projects. I'm also interested in **Cloud** and some **Frontend** technologies.
+I work on Docker, Docker Swarm and Kubernetes technologies.
 
 ## 📫 How to reach me
 
