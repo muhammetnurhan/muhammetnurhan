@@ -9,7 +9,6 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 [![Email](https://img.shields.io/badge/-muhammetnurhan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:muhammetnurhan@gmail.com)](mailto:muhammetnurhan@gmail.com)
 [![Website](https://img.shields.io/badge/-devinzone.com-black?style=flat&logo=google-chrome&logoColor=white)](https://devinzone.com)
 [![Website](https://img.shields.io/badge/-bilisimsozluk.com-black?style=flat&logo=firefox&logoColor=white)](https://bilisimsozluk.com)
-
 [![Linkedin](https://img.shields.io/badge/-muhammetnurhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-nur-han-a7bb8a135/)
 
 
@@ -39,6 +38,17 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Nexus](https://img.shields.io/badge/Nexus-green?style=flat&logo=sonatype&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-green?style=flat&logo=sonatype&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+![GitHub-Actions](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
+![GitLab-Runner](https://img.shields.io/badge/GitLab%20Runner-orange?style=flat&logo=gitlab&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=flat&logo=cloudflare&logoColor=white)
 
 ## 📚 I'm currently learning
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
