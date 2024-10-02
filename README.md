@@ -31,7 +31,6 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/Rest%20API-orange?style=flat&logo=RestAPI&logoColor=white)
-![Next.Js](https://img.shields.io/badge/Next.Js-black?style=flat&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=elasticsearch&logoColor=white)
@@ -42,7 +41,7 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 
 ## 📚 I'm currently learning
-![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
@@ -94,10 +93,6 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![GitHub-Actions](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)
 ![GitLab-Runner](https://img.shields.io/badge/GitLab%20Runner-orange?style=flat&logo=gitlab&logoColor=white)
-
-### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-green?style=flat&logo=godaddy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=flat&logo=cloudflare&logoColor=white)
 
 
