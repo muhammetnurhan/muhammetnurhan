@@ -47,11 +47,6 @@ I work on Docker, Docker Swarm and Kubernetes technologies.
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS](https://img.shields.io/badge/CDK-blue?style=flat&logo=amazon-aws&logoColor=white)
 
-
-## 📊 My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetnurhan&layout=default&hide_title=true)](https://github.com/muhammetnurhan)
-
-
 <details>
 <summary>More:</summary>
 
